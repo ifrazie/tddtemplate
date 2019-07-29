@@ -1,0 +1,18 @@
+{
+  "name": "test-driven-fizzbuzz",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Example of TDD in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "npx jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Baraka Frazier",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
